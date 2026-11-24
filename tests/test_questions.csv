@@ -1,0 +1,16 @@
+question,expected_source,expected_page,expected_behavior
+What is the purpose of the employee handbook?,sample_handbook.pdf,1,Answer from document
+How many days of annual leave are provided?,sample_handbook.pdf,2,Answer from document
+How should an employee request leave?,sample_handbook.pdf,2,Answer from document
+What should an employee do if they are sick?,sample_handbook.pdf,2,Answer from document
+What are the standard office hours?,sample_handbook.pdf,3,Answer from document
+How should employees report attendance corrections?,sample_handbook.pdf,3,Answer from document
+What is the policy for password sharing?,sample_handbook.pdf,4,Answer from document
+What should employees do with suspicious emails?,sample_handbook.pdf,4,Answer from document
+How should company equipment be used?,sample_handbook.pdf,5,Answer from document
+Can employees install unapproved software?,sample_handbook.pdf,5,Answer from document
+How should workplace concerns be reported?,sample_handbook.pdf,6,Answer from document
+What is the process for requesting training?,sample_handbook.pdf,6,Answer from document
+Who is the company's chief executive officer?,Not available,Not available,Should refuse / fallback
+What is the company's annual revenue?,Not available,Not available,Should refuse / fallback
+What is the employee's home address?,Not available,Not available,Should refuse / fallback
